@@ -1,0 +1,28 @@
+body{
+    /* background-color: #212529 !important; */
+    /* background-color: #198754 !important; */
+/* background-color: #dee2e6 !important; */
+/* background-color: #212529 !important; */
+/* background-color: #fff !important; */
+/* background-color: #212529 !important;
+color: #dee2e6 !important;
+ */
+}
+
+.abc{
+    visibility: hidden !important;
+}
+
+.my-btn{
+    background-color: darkmagenta !important;
+}
+
+.my-font{
+    font-style: italic !important;
+    font-weight: 100px !important;
+}
+
+.my-search-btn{
+    background-color: rgb(228, 218, 162) !important;
+    color: black !important;
+}
